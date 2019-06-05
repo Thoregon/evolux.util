@@ -1,0 +1,27 @@
+{
+  "name": "evolux.util",
+  "version": "1.0.0",
+  "description": "misc utils for evolux",
+  "main": "index.js",
+  "scripts": {
+    "gendoc": "./node_modules/.bin/esdoc",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thoregon/evolux.util.git"
+  },
+  "keywords": [],
+  "author": "Bernhard Lukassen <bl@bernhard-lukassen.com> (http://www.bernhard-lukassen.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Thoregon/evolux.util/issues"
+  },
+  "homepage": "https://github.com/Thoregon/evolux.util#readme",
+  "devDependencies": {
+    "esdoc": "^1.1.0",
+    "esdoc-node": "^1.0.4",
+    "esdoc-standard-plugin": "^1.0.0",
+    "jest": "^24.8.0"
+  }
+}
