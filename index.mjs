@@ -7,5 +7,6 @@
 // export { default as path }       from './lib/es6rebuilds/path.mjs';
 export { debounce }                 from './lib/debounce.mjs';
 export *                            from './lib/utilfns.mjs';
+export *                            from './lib/objutils.mjs';
 export { default as ClassBuilder }  from './lib/classbuilder.mjs';
 
