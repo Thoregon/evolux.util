@@ -9,4 +9,5 @@ export { debounce }                 from './lib/debounce.mjs';
 export *                            from './lib/utilfns.mjs';
 export *                            from './lib/objutils.mjs';
 export { default as ClassBuilder }  from './lib/classbuilder.mjs';
+export { default as RepoMirror }    from './lib/mixins/repomirror.mjs';
 
