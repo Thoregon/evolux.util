@@ -6,6 +6,7 @@
 
 // export { default as path }       from './lib/es6rebuilds/path.mjs';
 export { debounce }                 from './lib/debounce.mjs';
+export { default as Q }             from './lib/requestqueue.mjs';
 export { default as parseIni }      from './lib/iniparser.mjs';
 export *                            from './lib/utilfns.mjs';
 export *                            from './lib/objutils.mjs';
