@@ -15,6 +15,7 @@ export *                            from './lib/pathutils.mjs';
 export { default as ClassBuilder }  from './lib/classbuilder.mjs';
 export { default as RepoMirror }    from './lib/mixins/repomirror.mjs';
 export { default as AsyncResource } from './lib/asyncresource.mjs';
+export { default as Base64url }     from './lib/base64url.mjs';
 
 // external libraries wrapped for ES6 import
 export { default as StateMachine }           from './lib/javascript-state-machine.mjs';
