@@ -14,6 +14,7 @@ export *                            from './lib/formatutils.mjs';
 export *                            from './lib/pathutils.mjs';
 export *                            from './lib/csvutil.mjs';
 export *                            from './lib/localeutils.mjs';
+export *                            from './lib/serialize.mjs';
 export { default as ClassBuilder }  from './lib/classbuilder.mjs';
 export { default as RepoMirror }    from './lib/mixins/repomirror.mjs';
 export { default as AsyncResource } from './lib/asyncresource.mjs';
