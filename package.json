@@ -19,5 +19,9 @@
     "url": "https://github.com/Thoregon/evolux.util/issues"
   },
   "homepage": "https://github.com/Thoregon/evolux.util#readme",
-  "devDependencies": {}
+  "dependencies": {
+    "evolux.universe": "file:../evolux.universe",
+    "thoregon.archetim": "file:../../thoregon.modules/thoregon.archetim",
+    "thoregon.truCloud": "file:../../thoregon.modules/thoregon.truCloud"
+  }
 }
